@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "logo": "krokoslogo.png",
+    "title": "Krokos"
+    "links": [
+      {
+        "href": "/STILI",
+        "name": "Stili"
+      },
+      {
+        "href": "/ELEMENTI",
+        "name": "Elementi"
+      }
+    ]
+  }
+}

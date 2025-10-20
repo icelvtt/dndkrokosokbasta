@@ -1,10 +1,3 @@
 {
   "title": "Your Site Title",
-  "description": "Your site description",
-  "showSidebar": true,             // Show site map on the left,
-  "theme": {
-    "theme": "superstack",        // Optional official Flowershow theme
-    "defaultMode": "dark",
-    "showModeSwitch": true
-  }
 }

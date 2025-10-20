@@ -7,12 +7,12 @@
   "nav": {
     "links": [
       {
-        "href": "/blog",
-        "name": "Blog"
+        "href": "/stili",
+        "name": "Stili"
       },
       {
-        "href": "/about",
-        "name": "About"
+        "href": "/elementi",
+        "name": "Elementi"
       }
     ]
   }

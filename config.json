@@ -3,4 +3,17 @@
   "theme": {
   "defaultMode": "dark"  // or "light" or "system"
   }
+  {
+  "nav": {
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ]
+  }
 }

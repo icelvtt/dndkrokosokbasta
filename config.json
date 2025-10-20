@@ -13,22 +13,9 @@
         "href": "/#-markdown-syntax",
         "name": "Syntax"
       }
-    ],
-    "social": [
-      {
-        "href": "https://github.com/flowershow/demo",
-        "name": "GitHub Profile",
-        "label": "github"
-      },
-      {
-        "href": "https://x.com/flowershowapp",
-        "name": "Follow me on X",
-        "label": "twitter"
-      }
     ]
   },
   "showSidebar": true,
-  "showEditLink": true,
   "theme": {
     "defaultMode": "system",
     "showModeSwitch": true

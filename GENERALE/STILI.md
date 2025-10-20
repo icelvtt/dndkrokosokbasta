@@ -8,6 +8,8 @@ Vi sono essenzialmente 2 Stili:
 
 Le due specializzazioni non sono da intendere come puramente binarie, lo stile è più come uno spettro che possiede ai due poli opposti la manifestazione elementale interna (Stoikon) e quella esterna (Oplis).
 
+---
+
 ## <font color="#8064a2">OPLIS</font>
 
 #### CARATTERISTICHE GENERALI
@@ -57,6 +59,8 @@ Scelta tra:
 **LIVELLO 7**
 
 - ***Terzo stadio Quintessenza del Legame***
+
+---
 
 ## <font color="#8064a2">STOIKON</font>
 

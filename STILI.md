@@ -110,4 +110,3 @@ Scelta tra:
 **LIVELLO 7**
 
 - ***Terzo stadio quintessenza del legame***
-- 

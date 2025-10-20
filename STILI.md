@@ -20,7 +20,7 @@ Le due specializzazioni non sono da intendere come puramente binarie, lo stile �
 * Armatura leggera  
 * Un’Arma media ed uno scudo / Un’Arma pesante / Due Armi leggere
 
-#### **PROGRESSIONE**
+#### PROGRESSIONE
 
 **LIVELLO 1** - Scelta tra:
 - ***Agilità*** = Azione Bonus con arma secondaria (deve essere un’arma leggera). 
@@ -64,10 +64,10 @@ Scelta tra:
 - Vengono garantiti 2 Punti Elementali extra per livello.
 - Aggiungi il numero del tuo livello come bonus a tiri salvezza per attacchi elementali e ai tiri per colpire con attacchi elementali.
 
-#### **EQUIPAGGIAMENTO**
+#### EQUIPAGGIAMENTO
 
 * Armatura Leggera
-#### **PROGRESSIONE
+#### PROGRESSIONE
 
 **LIVELLO 1**
 

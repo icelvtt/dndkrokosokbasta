@@ -1,17 +1,17 @@
 {
-  "title": "Flowershow Demo",
+  "title": "Krokos",
   "description": "Flowershow demo site showcasing its features",
-  "image": "/assets/hiroshige.jpg",
+  "image": "krokoslogo.png",
   "nav": {
     "title": "Flowershow Demo",
     "links": [
       {
-        "href": "/about",
-        "name": "About"
+        "href": "/STILI",
+        "name": "Stili"
       },
       {
-        "href": "/#-markdown-syntax",
-        "name": "Syntax"
+        "href": "/ELEMENTI",
+        "name": "Elementi"
       }
     ]
   },

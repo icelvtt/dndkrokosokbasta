@@ -1,3 +1,6 @@
 {
-  "showSidebar": true
+  "shodSidebar": true
+  "nav" {
+    "title": "Datopian Tech"
+  }
 }

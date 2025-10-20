@@ -1,18 +1,13 @@
 {
-  "showSidebar": true
-  "theme": {
-  "defaultMode": "dark"  // or "light" or "system"
-  }
-  {
   "nav": {
     "links": [
       {
-        "href": "/stili",
-        "name": "Stili"
+        "href": "/blog",
+        "name": "Blog"
       },
       {
-        "href": "/elementi",
-        "name": "Elementi"
+        "href": "/about",
+        "name": "About"
       }
     ]
   }

@@ -7,11 +7,11 @@
     "logo": "krokoslogo.png",
     "links": [
       {
-        "href": "/STILI",
+        "href": "/GENERALE/STILI",
         "name": "Stili"
       },
       {
-        "href": "/ELEMENTI",
+        "href": "/GENERALE/ELEMENTI",
         "name": "Elementi"
       }
     ]

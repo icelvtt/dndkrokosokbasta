@@ -17,6 +17,8 @@ Al momento della creazione del personaggio, questi sono i parametri comuni a tut
 - **Personalità**: Breve descrizione delle tendenze caratteriali e comportamentali del personaggio. 
 - Successivamente, occorre scegliere il proprio Stile ed il proprio Elemento.
 
+---
+
 # ABILITà
 
 Ogni personaggio è caratterizzato da 5 **Abilità**, ognuna delle quali concernenti specifici ambiti.
@@ -49,6 +51,7 @@ Questo è l'elenco di tutte le Abilità con le loro Sottoabilità e le rispettiv
 	- **Prestazione**: è la capacità di intrattenere, di tenere occupate e di incantare le persone, mediante puro charme. Si rivela utile quando è necessario l'uso di diversivi o di altri meccanismi per distogliere l'attenzione di qualcuno. 
 	- **Convinzione**: è la capacità di persuadere l'altro, convincendolo dell'oggetto di un'eventuale disputa, oppure per intimidirlo, o per ottenere qualsiasi altro effetto possibile da un discorso di qualunque natura.
 
+---
 
 # REGOLE GENERALI E DI COMBATTIMENTO
 

@@ -1,5 +1,7 @@
 {
   "nav": {
+    "title": "Krokos",
+    "logo": "krokoslogo.png"
     "links": [
       {
         "href": "/STILI",

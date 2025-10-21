@@ -7,6 +7,10 @@
     "logo": "krokoslogo.png",
     "links": [
       {
+        "href": "/GENERALE/GEMERALE",
+        "name": "Generale"
+      },
+      {
         "href": "/GENERALE/STILI",
         "name": "Stili"
       },

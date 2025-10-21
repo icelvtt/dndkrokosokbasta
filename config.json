@@ -8,15 +8,15 @@
     "links": [
       {
         "href": "/GENERALE/GENERALE",
-        "name": "Generale"
+        "name": "Sistema"
       },
       {
-        "href": "/GENERALE/STILI",
-        "name": "Stili"
+        "href": "/LUOGHI/Iona/Iona",
+        "name": "Il Mondo di Iona"
       },
       {
-        "href": "/GENERALE/ELEMENTI",
-        "name": "Elementi"
+        "href": "/PERSONAGGI/PLAYER/Alessandro",
+        "name": "Personaggi"
       }
     ]
   },

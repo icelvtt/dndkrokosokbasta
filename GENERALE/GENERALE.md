@@ -1,7 +1,7 @@
 
 Al momento della creazione del personaggio, questi sono i parametri comuni a tutti che devono essere decretati:
 
-# **<font color="#6425d0">STATISTICHE</font>**
+## **<font color="#6425d0">STATISTICHE</font>**
 
 - **Salute**: 10 + media della competenza in Vigore e Robustezza, arrotondata per eccesso
 - **Abilità**: sistema point buy (occorre distribuire 25 punti tra le 5 statistiche esistenti, partendo da 8 punti ciascuna) e si può aggiungere +2 ad una statistica e +1 ad un’altra; 
@@ -9,7 +9,7 @@ Al momento della creazione del personaggio, questi sono i parametri comuni a tut
 - **Competenze**: 3 a scelta tra Investigazione, Memoria, Appercezione, Percezione, Convinzione e Prestazione e due tra: Robustezza, Vigore, Manualità e Furtività;  
 - **Passaggi Elementali**: 8 punti da distribuire (minimo 1 per ogni categoria, massimo 4); ad ogni livello si ottengono 3 punti, per un totale di 26 punti da distribuire. Più è alto il livello, più sono consentite evocazioni elaborate.
 
-# **<font color="#6425d0">STORIA</font>**
+## **<font color="#6425d0">STORIA</font>**
 
 - **Biografia:** Tutta la vita passata, fino al momento della morte, riassunta brevemente. Serve a dare un'indicazione generale del personaggio.
 - **Tanatografia:** Tutta la vita trascorsa a Ionia, riassunta brevemente. Serve per tenere traccia degli avvenimenti durante la campagna.
@@ -19,7 +19,7 @@ Al momento della creazione del personaggio, questi sono i parametri comuni a tut
 
 ---
 
-# ABILITà
+## ABILITà
 
 Ogni personaggio è caratterizzato da 5 **Abilità**, ognuna delle quali concernenti specifici ambiti.
 
@@ -53,7 +53,7 @@ Questo è l'elenco di tutte le Abilità con le loro Sottoabilità e le rispettiv
 
 ---
 
-# REGOLE GENERALI E DI COMBATTIMENTO
+## REGOLE GENERALI E DI COMBATTIMENTO
 
 ### SCHIVATA, PARATA E RIDUZIONI DEL DANNO
 

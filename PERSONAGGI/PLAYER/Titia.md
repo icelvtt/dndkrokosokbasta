@@ -11,8 +11,8 @@
 - **FOR**: 14 = +2
 - **DEX**: 17 = +3
 - **INT**: 17 = +3
-- **SAG**: 9 = -1
-- **CHA**: 13 = +1
+- **SAG**: 10 = 0
+- **CHA**: 12 = +1
 
 - **Salvezza** = FOR, INT
 - **Sottoabilità**  = Memoria, Appercezione, Convinzione, vigore e furtività

@@ -1,4 +1,3 @@
-# **ELEMENTI
 
 Ogni personaggio è dotato di un **Elemento** caratteristico, tra i seguenti 5, con i loro rispettivi **Sottoelementi**
 

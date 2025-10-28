@@ -57,7 +57,6 @@ Scelta tra:
 - ***Colpo Mirato Perfezionato:*** Il range di colpo critico è ulteriormente abbassato di un punto\. (Di due punti se non ti muovi in quel turno)
 
 **LIVELLO 7**
-
 - ***Terzo stadio Quintessenza del Legame***
 
 ---

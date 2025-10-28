@@ -18,7 +18,7 @@
 - **Sottoabilità**  = Memoria, Appercezione, Convinzione, vigore e furtività
 ### PASSAGGI ELEMENTALI
 
-- **Creazione:** 1
+- **Creazione:** 4
 - **Traslazione:** 2 
 - **Animazione:** 2
 - **Moltiplicazione:** 2

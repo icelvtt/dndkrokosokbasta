@@ -8,14 +8,14 @@
 
 ## STATISTICHE
 
-- **FOR**: 8 = -1
-- **DEX**: 8 = -1
-- **INT**: 18 = 4
-- **SAG**: 16 = 3
-- **CHA**: 18 = 4
+- **FOR**: 18 = +4
+- **DEX**: 18 = +4
+- **INT**: 8 = -1
+- **SAG**: 16 = +3
+- **CHA**: 8 = -1
 
-- **Salvezza** = FOR, CHA
-- **Sottoabilità** = Investigazione, Prestazione, Memoria, Robustezza e Vigore 
+- **Salvezza** = FOR, SAG
+- **Sottoabilità** = Appercezione, Percezione, Memoria, Robustezza e Furtività 
 
 ### Passaggi Elementali:
 

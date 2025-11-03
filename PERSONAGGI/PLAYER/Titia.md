@@ -16,6 +16,7 @@
 
 - **Salvezza** = FOR, INT
 - **Sottoabilità**  = Memoria, Appercezione, Convinzione, vigore e furtività
+
 ### PASSAGGI ELEMENTALI
 
 - **Creazione:** 4

@@ -1,5 +1,5 @@
 
-Alessandro Barbero, Astree Martin, Dorothea Wagner, Johanna Karolschitz, Loren Lotus, Morgana Rossi e Titia Innocenti, 7 malcapitati morti per le più svariate cause dai luoghi più remoti, si ritrovarono tutti insieme a ridosso di un limpido lago nei pressi di **Meotidia**, capitale dell'omonima regione. 
+Alessandro Barbero, Astree Martin, Dorothea Wagner, Johanna Karolschitz, Loren Lotus, Morgana Rossi e Titia Innocenti, 7 malcapitati morti per le più svariate cause dai luoghi più remoti, si ritrovarono tutti insieme a ridosso di un limpido lago nei pressi di **[[Meotidia]]**, capitale dell'omonima regione. 
 
 Senza nemmeno avere il tempo di riflettere sulla loro ritrovata esistenza, udirono all'unisono una voce, recitante le seguenti parole: "**Via delle Pleiadi, 77**".
 Pur non conoscendosi tra di loro, decisero di incamminarsi verso quella meta, imbattendosi dapprima coll'imponente e ferreo cancello della città, per poi trovare l'indirizzo comunicatogli in breve tempo seguendo le indicazioni stradali.

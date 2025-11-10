@@ -1,12 +1,13 @@
-# Benvenuto!
+# KROKOS
 
 Benvenuto sul sito di Krokos!
 
-Potrai trovare informazioni utili sul
+Potrai trovare informazioni utili su:
 
-- Mondo di [[Iona]]
-- Cast di [[Alessandro|Personaggi]]
-- [[GENERALE|Sistema]] di Base
+- Il Mondo di[[LUOGHI/Iona/Iona| Iona]] 
+- Il Cast di [[Alessandro|Personaggi]]
+- Il [[GENERALE|Sistema]] di Base
+- Le ultime[[I - Un Patto con 'Dio' | Cronache]] 
 
 E tanto altro (che ancora deve essere aggiunto...)
 

@@ -53,7 +53,7 @@ Ogni persona è capace di sviluppare ed allenare le proprie abilità di manipola
 
 ## <font color="#8064a2">COMPETENZE ELEMENTALI </font>:
 
-Il Grado indica il numero di Cariche elementali (3 al primo livello, aumentano di 2 per ogni livello e si ripristinano del tutto ad ogni ricarica). Alcune hanno prerequisiti in determinati passaggi elementali. Al primo livello sono disponibili le Competenze Elementali di Grado 0 e 1, aumentando di un Grado ad ogni livello appreso.
+Il Grado indica il numero di Cariche elementali (3 al primo livello, aumentano di 2 per ogni livello e si ripristinano del tutto ad ogni ricarica) richieste per effettuare quella determinata Competenza Elementale. Alcune hanno prerequisiti in determinati passaggi elementali. Al primo livello sono disponibili le Competenze Elementali di Grado 0 e 1, aumentando di un Grado ad ogni livello appreso. Inoltre, aumenta anche il numero di cariche massime che si possono spendere in un'unica azione (Lvl 1 = 1,  Lvl 2 = 2, Lvl 3 = 3, Lvl 4 = 4, Lvl 5 = 5, Lvl 6 =  6, Lvl 7 = 7).
 
 **GRADO 0**
 

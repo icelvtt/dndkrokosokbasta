@@ -21,5 +21,5 @@
 
 - **Creazione:** 2
 - **Traslazione:** 3
-- **Animazione:** 2
-- **Moltiplicazione:** 1
+- **Animazione:** 3
+- **Moltiplicazione:** 2

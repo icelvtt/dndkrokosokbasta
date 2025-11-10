@@ -3,7 +3,7 @@ Al momento della creazione del personaggio, questi sono i parametri comuni a tut
 
 ## **<font color="#6425d0">STATISTICHE</font>**
 
-- **Salute**: 10 + media della competenza in Vigore e Robustezza, arrotondata per eccesso
+- **Salute**: 1d10 + media della competenza in Vigore e Robustezza, arrotondata per eccesso 
 - **Abilità**: sistema point buy (occorre distribuire 25 punti tra le 5 statistiche esistenti, partendo da 8 punti ciascuna) e si può aggiungere +2 ad una statistica e +1 ad un’altra; 
 - **Tiri salvezza**: Uno tra Intelligenza, Saggezza, Carisma e uno tra Forza o Destrezza;  
 - **Competenze**: 3 a scelta tra Investigazione, Memoria, Appercezione, Percezione, Convinzione e Prestazione e due tra: Robustezza, Vigore, Manualità e Furtività;  

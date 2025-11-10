@@ -12,7 +12,7 @@ Ancora più intimoriti, fecero lo sforzo di procedere e scesero gradualmente que
 
 Introdottosi come "**Dio**", l'essere spiegò che erano stati salvati da lui e che il loro unico obiettivo rimasto era quello di raggiungere il "**Paradiso**". Aggiunse, inoltre, che li avrebbe aiutati a patto che ricevesse qualcosa in cambio.
 
-Dopo aver spiegato il concetto del modello [[S.O.U.L]] e fatti interagire con il **Soul Locator**, proseguì con l'illustrazione di ciò che avrebbero dovuto fare a breve: andare nel villaggio di **Anoia** per "risolvere alcune controversie sporcandosi le mani" e, qualora dovessero incontrarli, uccidere **un ragazzo dai capelli viola con occhi gialli e una ragazza dai capelli blu con occhi viola** o, altrimenti, fargli recapito dell'incontro.
+Dopo aver spiegato il concetto del modello **[[S.O.U.L]]** e fatti interagire con il **Soul Locator**, proseguì con l'illustrazione di ciò che avrebbero dovuto fare a breve: andare nel villaggio di **Anoia** per "risolvere alcune controversie sporcandosi le mani" e, qualora dovessero incontrarli, uccidere **un ragazzo dai capelli viola con occhi gialli e una ragazza dai capelli blu con occhi viola** o, altrimenti, fargli recapito dell'incontro.
 
 Nel mentre egli aveva dimostrato una particolare simpatia verso Morgana, contrapposta ad un continuo maltrattamento di Alessandro, che ha avuto la sua laringe attraversata innumerevoli volte dalle mani dell'uomo in nero, grazie ai suoi poteri. Mostrò anche un certo ribrezzo ogni qualvolta che Titia si raccoglieva in preghiera o menzionava la figura di Cristo e annessi.
 

@@ -1,5 +1,5 @@
 
-Il **S.O.U.L**, acronimo di:
+Il **S.O.U.L** è l'acronimo di:
 
 - **S**: Sistema
 - **O**: Olistico di

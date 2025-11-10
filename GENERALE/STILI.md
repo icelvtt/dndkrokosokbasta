@@ -106,7 +106,7 @@ Scelta tra:
 
 **LIVELLO 6**
 
-- ***Eruzione Elementale*** \= Una volta per ricarica consuma il doppio delle cariche elementali richieste per un determinato attacco elementale per aumentare il tuo modificatore di Moltiplicazione della sua metà (arrotondata per difetto). Resti incapacitato per un turno.
+- ***Eruzione Elementale*** \= Una volta per ricarica consuma il doppio delle cariche elementali richieste per un determinato attacco elementale per aumentare il tuo valore di Moltiplicazione della sua metà (arrotondata per difetto). Resti incapacitato per un turno.
 
 Scelta tra:
 - ***Padronanza Elementale:*** Ottieni resistenza ad ogni tipo di danno legato al tuo elemento. 

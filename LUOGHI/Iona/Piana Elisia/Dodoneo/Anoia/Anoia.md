@@ -1,1 +1,0 @@
-è un villaggio di tutti i dementi mandati da Lacemonia o Caris che vengono accoppiati con le donne un tradirici di meotidia, vengono fatti spacciare per malate ma in realtà non lo sono e sono rilegate in quel posto solo per figliare e fare da fonte di manodopera sottopagata / attrazione turistica / vantaggi economici

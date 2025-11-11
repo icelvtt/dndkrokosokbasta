@@ -7,15 +7,15 @@
     "logo": "krokoslogo.png",
     "links": [
       {
-        "href": "/GENERALE/GENERALE",
+        "href": "/KROKOS/GENERALE/GENERALE",
         "name": "Sistema"
       },
       {
-        "href": "/LUOGHI/Iona/Iona",
+        "href": "/KROKOS/LUOGHI/Iona/Iona",
         "name": "Il Mondo di Iona"
       },
       {
-        "href": "/PERSONAGGI/PLAYER/Alessandro",
+        "href": "/KROKOS/PERSONAGGI/PLAYER/Alessandro",
         "name": "Personaggi"
       }
     ]

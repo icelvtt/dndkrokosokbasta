@@ -8,6 +8,8 @@
 
 ## STATISTICHE
 
+- **HP**: 12
+
 - **FOR**: 14 = +2
 - **DEX**: 17 = +3
 - **INT**: 17 = +3
@@ -24,3 +26,6 @@
 - **Animazione:** 2
 - **Moltiplicazione:** 2
 
+### Abilità
+
+- ***Elementalista Robusto*** = Aggiungi il tuo modificatore di Vigore al numero di cariche elementali disponibili per ricarica. 

@@ -7,6 +7,8 @@
 - **Stile**: Stoikon
 ## STATISTICHE
 
+- **HP**: 10
+
 - **FOR**: 10 = + 0
 - **DEX**: 12 = + 1
 - **INT**: 18 = + 4
@@ -22,3 +24,7 @@
 - **Traslazione:** 2
 - **Animazione:** 3
 - **Moltiplicazione:** 2
+
+### Abilità
+
+***Elementalista Robusto*** = Aggiungi il tuo modificatore di Vigore al numero di cariche elementali disponibili per ricarica. 

@@ -8,6 +8,8 @@
 
 ## STATISTICHE
 
+- **HP**: 14
+
 - **FOR**: 18 = +4
 - **DEX**: 18 = +4
 - **INT**: 8 = -1
@@ -25,3 +27,6 @@
 - **Moltiplicazione:** 1
 
 
+### Abilità:
+
+ ***Agilità*** = Azione Bonus con arma secondaria (deve essere un’arma leggera). 

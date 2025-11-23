@@ -8,6 +8,8 @@
 
 ## STATISTICHE
 
+- **HP**: 9
+
 - **FOR**: 9 = -1
 - **DEX**: 14 = +2
 - **INT**: 16 = +3
@@ -23,3 +25,8 @@
 - **Traslazione:** 3
 - **Animazione:** 3
 - **Moltiplicazione:** 2
+
+### Abilità
+
+***Risposta Elementale*** = Come reazione, puoi infliggere ad un nemico che ha provato a colpirti, fallendo, un danno pari al tuo modificatore di Moltiplicazione.
+

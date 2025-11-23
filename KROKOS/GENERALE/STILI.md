@@ -72,6 +72,7 @@ Scelta tra:
 #### EQUIPAGGIAMENTO
 
 * Armatura Leggera
+
 #### PROGRESSIONE
 
 **LIVELLO 1**

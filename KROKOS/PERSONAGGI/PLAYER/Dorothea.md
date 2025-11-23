@@ -8,6 +8,8 @@
 
 ## STATISTICHE
 
+- **HP**: 10
+
 - **FOR**: 10 = 0
 - **DEX**: 14 = +2
 - **INT**: 16 = +3
@@ -23,3 +25,7 @@
 - **Traslazione:** 1
 - **Animazione:** 2
 - **Moltiplicazione:** 2
+
+### Abilità
+
+***Penetrazione*** = Ignorare gli scudi con un’Arma pesante.

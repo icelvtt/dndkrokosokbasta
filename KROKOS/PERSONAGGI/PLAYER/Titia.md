@@ -29,3 +29,5 @@
 ### Abilità
 
 - ***Elementalista Robusto*** = Aggiungi il tuo modificatore di Vigore al numero di cariche elementali disponibili per ricarica. 
+
+

@@ -30,3 +30,5 @@
 
 ***Risposta Elementale*** = Come reazione, puoi infliggere ad un nemico che ha provato a colpirti, fallendo, un danno pari al tuo modificatore di Moltiplicazione.
 
+
+

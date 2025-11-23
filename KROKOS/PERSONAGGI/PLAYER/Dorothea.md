@@ -29,3 +29,4 @@
 ### Abilità
 
 ***Penetrazione*** = Ignorare gli scudi con un’Arma pesante.
+

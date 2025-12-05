@@ -24,7 +24,7 @@ Ogni persona è capace di sviluppare ed allenare le proprie abilità di manipola
 * **CREAZIONE** 1/10  
 * **TRASLAZIONE** 1/10  
 * **ANIMAZIONE** 1/10  
-* **MOLTIPLICAZIONE** 1/10
+* **MOLTIPLICAZIONE** 1/20
 
 
 **Creazione**:

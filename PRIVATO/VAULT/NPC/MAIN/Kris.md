@@ -43,14 +43,13 @@
 **Azioni:**
 
 - **Fendente**: Tiro per colpire in DEX + 3 + Lvl/2; Danni: 1d10 + FOR + Lvl/2; Azione
-- **Tornado della Morte**: 
+- **Tornado della Morte**: Ruota ferocemente attorno a se stessa per creare un vortice d'acqua lungo il taglio della spada, con raggio 10 cm * TRA, Tiro salvezza in DEX (CD13) per dimezzare; Danni: 1d6 + FOR + Lvl/2; AoE; Azione
 - **Lasso di Kris**: Genera un lasso formato d'acqua e prova ad attaccarlo addosso ad un avversario, distante 20 cm * TRA, Tiro salvezza in DEX (CD 13), se fallito, Immobilizzato per 1 turno se mantiene Concentrazione; Azione Bonus
 - **Laccio di Kris**: Genera un laccio attorno alla Kyuryu, permettendo di estenderne il suo raggio di 20 cm * TRA, può scegliere di usarlo anche per spostarsi dello stesso ammontare di distanza raddoppiato, lanciandosi in aria in un salto in lungo; Azione Bonus
 - **Pugno**: Tiro per colpire in DEX; Danni: 1d4 + DEX; se lo infonde d'acqua il danno sale a 1d4 + DEX + 1d4; Azione
 
 **Passive:**
 
-- **Ubiquità**: Può colpire con **Pugno** attraversando qualsiasi tipo di materia organica.
 - ***Penetrazione*** = Ignora gli scudi con un’Arma pesante.
 - ***Attacco Extra***: Puoi attaccare con la tua arma una seconda volta dopo aver utilizzato la tua azione per attaccare
 

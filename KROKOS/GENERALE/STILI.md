@@ -37,7 +37,7 @@ Scelta tra:
 - ***Colpo Mirato:***  Il range di colpo critico è abbassato di un punto\. (Di due se non ti muovi in quel turno) 
 
 **LIVELLO 3**
-- ***Primo stadio della Quintessenza del Legame; Incremento di abilità;
+- ***Primo stadio della Quintessenza del Legame; Incremento di abilità (4 punti aggiuntivi da distribuire, MAX 20 a statistica);
 
 **LIVELLO 4**
 - ***Attacco Extra*** ***Migliorato***: Puoi attaccare una terza volta dopo aver utilizzato la tua azione per attaccare.
@@ -47,7 +47,7 @@ Scelta tra:
 - ***Attacco Caricato***: Puoi scegliere di trattare il tuo primo attacco in mischia contro una creatura come un tiro su vantaggio, aggiungendo nuovamente il tuo bonus competenza al danno totale, ma se fallisce, resti prono per un turno. 
 
 **LIVELLO 5**
-- ***Secondo stadio della Quintessenza del Legame; Incremento di abilità;
+- ***Secondo stadio della Quintessenza del Legame; Incremento di abilità (5 punti aggiuntivi da distribuire, MAX 25 a statistica);
 **LIVELLO 6**
 - ***Adrenalina***: Una volta per ricarica, per un turno annulli ogni livello di affaticamento preesistente, raddoppi la tua velocità di movimento, per ogni tiro che causa un danno aggiungi al suo risultato metà di quest'ultimo, dimezzi tutti i danni fisici subiti. Resti paralizzato per il turno successivo.
 
@@ -56,7 +56,7 @@ Scelta tra:
 - ***Colpo Mirato Perfezionato:*** Il range di colpo critico è ulteriormente abbassato di un punto\. (Di due punti se non ti muovi in quel turno)
 
 **LIVELLO 7**
-- ***Terzo stadio Quintessenza del Legame***
+- ***Terzo stadio Quintessenza del Legame: Incremento di abilità (7 punti aggiuntivi da distribuire, MAX 30 a statistica***
 
 ---
 

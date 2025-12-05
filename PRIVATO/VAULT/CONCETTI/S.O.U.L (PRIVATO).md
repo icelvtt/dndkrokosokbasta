@@ -9,7 +9,7 @@ Il **S.O.U.L**, acronimo di:
 è il nodo centrale di tutti gli sviluppi tecnologici principali all'interno del mondo di Iona. 
 Le ricerche collettive dei più importanti **Laboratori di Sviluppo e Analisi Elementale** (LSAE) hanno portato alla creazione del modello finora più attendibile di sintesi dell'essere umano.
 
-La [[CDC]] è stata uno dei principali promotori e sviluppatori del modello S.O.U.L, sviluppando svariati marchingegni in grado di leggere, visualizzare, sfruttare e, in moderata porzione, alterarne le caratteristiche. 
+La [[PRIVATO/VAULT/CONCETTI/CDC/CDC]] è stata uno dei principali promotori e sviluppatori del modello S.O.U.L, sviluppando svariati marchingegni in grado di leggere, visualizzare, sfruttare e, in moderata porzione, alterarne le caratteristiche. 
 
 Tra questi vi sono:
 

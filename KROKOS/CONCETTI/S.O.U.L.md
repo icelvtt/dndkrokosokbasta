@@ -6,7 +6,7 @@ Il **S.O.U.L** è l'acronimo di:
 - **U**: Umana
 - **L**: Locazione
 
-La [[CDC]] è stata uno dei principali promotori e sviluppatori del modello S.O.U.L, sviluppando svariati marchingegni in grado di leggere, visualizzare, sfruttare e, in moderata porzione, alterarne le caratteristiche. 
+La [[KROKOS/CONCETTI/CDC|CDC]] è stata uno dei principali promotori e sviluppatori del modello S.O.U.L, sviluppando svariati marchingegni in grado di leggere, visualizzare, sfruttare e, in moderata porzione, alterarne le caratteristiche. 
 
 Tra questi vi sono:
 

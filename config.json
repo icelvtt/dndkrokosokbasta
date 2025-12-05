@@ -25,4 +25,7 @@
     "defaultMode": "system",
     "showModeSwitch": true
   }
+  "contentExclude": [
+    "/PRIVATO"
+  ]
 }

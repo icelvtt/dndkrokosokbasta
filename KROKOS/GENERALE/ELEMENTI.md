@@ -64,7 +64,7 @@ Il Grado indica il numero di Cariche elementali (3 al primo livello, aumentano d
 **GRADO 1**
 
 - ***Raggio Elementale***: Da una parte del corpo fai scaturire un raggio del tuo elemento. Il danno è 1d12 per carica utilizzata \+ il modificatore di Moltiplicazione. (Prerequisiti: almeno 5 in Traslazione); 
-- ***Arti Elementali***: Una parte del tuo corpo si infonde del tuo elemento e guadagna determinate caratteristiche in base al proprio elemento. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in Traslazione, almeno 3 in Animazione). [AZIONE BONUS]
+- ***Arti Elementali***: Una parte del tuo corpo si infonde del tuo elemento e guadagna determinate caratteristiche in base al proprio elemento. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in Traslazione) [AZIONE BONUS]
 
 **GRADO 2**
 

@@ -14,7 +14,7 @@ Ogni Elemento possiede delle specifiche declinazioni delle evocaizoni elementali
 **GRADO 1**
 
 - ***Raggio Incendiario***: Da una parte del corpo fai scaturire un raggio infuocato. Il danno è 1d12 da fuoco per carica utilizzata + MOL. (Prerequisiti: almeno 5 in TRA). 
-- ***Arti Roventi:*** Una parte del tuo corpo si infonde nelle fiamme e guadagna 1d4 di danno da fuoco per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA, almeno 3 in ANI) [AZIONE BONUS]
+- ***Arti Roventi:*** Una parte del tuo corpo si infonde nelle fiamme e guadagna 1d4 di danno da fuoco per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA) [AZIONE BONUS]
 
 
 ## OURANOS:
@@ -29,8 +29,8 @@ Ogni Elemento possiede delle specifiche declinazioni delle evocaizoni elementali
 
 **GRADO 1**
 
-- ***Raggio Zefiro***: Da una parte del corpo fai scaturire un raggio infuocato. Il danno è 1d12 da forza per carica utilizzata \+ MOL. (Prerequisiti: almeno 5 in TRA). 
-- ***Arti Vorticose:*** Una parte del tuo corpo si infonde nelle correnti d'aria vicine e guadagna 1d4 di danno da forza per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA, almeno 3 in ANI) [AZIONE BONUS]
+- ***Raggio Zefireo***: Da una parte del corpo fai scaturire un raggio fatto di venti impetuosi. Il danno è 1d12 da forza per carica utilizzata \+ MOL. (Prerequisiti: almeno 5 in TRA). 
+- ***Arti Vorticose:*** Una parte del tuo corpo si infonde nelle correnti d'aria vicine e guadagna 1d4 di danno da forza per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA) [AZIONE BONUS]
 
 
 ## HYDROS:
@@ -46,7 +46,7 @@ Ogni Elemento possiede delle specifiche declinazioni delle evocaizoni elementali
 **GRADO 1**
 
 - ***Raggio Idraulico***: Da una parte del corpo fai scaturire un raggio d'acqua. Il danno è 1d12 danni contundenti per carica utilizzata \+ MOL. (Prerequisiti: almeno 5 in TRA). 
-- ***Arti Lagunari:*** Una parte del tuo corpo si infonde in una corrente d'acqua e guadagna 1d4 di danni contundenti per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA, almeno 3 in ANI) [AZIONE BONUS]
+- ***Arti Lagunari:*** Una parte del tuo corpo si infonde in una corrente d'acqua e guadagna 1d4 di danni contundenti per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA) [AZIONE BONUS]
 
 
 
@@ -63,7 +63,7 @@ Ogni Elemento possiede delle specifiche declinazioni delle evocaizoni elementali
 **GRADO 1**
 
 - ***Raggio Litico***: Da una parte del corpo fai scaturire un raggio fatto di scariche di detriti inorganici. Il danno è 1d12 contundenti per carica utilizzata \+ MOL. (Prerequisiti: almeno 5 in TRA). 
-- ***Arti Petrose:*** Una parte del tuo corpo si infonde di un rivestimento roccioso o metallico (CRE > 5) e guadagna 1d4 di danni contundenti / taglienti (a seconda della forma del rivestimento) per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA, almeno 3 in ANI) [AZIONE BONUS]
+- ***Arti Petrose:*** Una parte del tuo corpo si infonde di un rivestimento roccioso o metallico (CRE > 5) e guadagna 1d4 di danni contundenti / taglienti (a seconda della forma del rivestimento) per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA) [AZIONE BONUS]
 
 
 ## PHYSIS:
@@ -78,5 +78,5 @@ Ogni Elemento possiede delle specifiche declinazioni delle evocaizoni elementali
 **GRADO 1**
 
 - ***Raggio Spinoso***: Da una parte del corpo fai scaturire un raggio fatto di fasci di rampicanti appuntiti. Il danno è 1d12 taglienti per carica utilizzata \+ MOL. (Prerequisiti: almeno 5 in TRA). 
-- ***Arti Irte:*** Una parte del tuo corpo si infonde in spine acuminate e guadagna 1d4 di danni taglienti per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA, almeno 3 in ANI).  [AZIONE BONUS]
+- ***Arti Irte:*** Una parte del tuo corpo si infonde in spine acuminate e guadagna 1d4 di danni taglienti per ogni carica utilizzata. Ogni turno è necessario fare un tiro su Vigore per mantenere la concentrazione e se si viene colpiti è opportuno fare un tiro su Robustezza per non perdere la concentrazione. (Prerequisiti: almeno 3 in TRA).  [AZIONE BONUS]
 

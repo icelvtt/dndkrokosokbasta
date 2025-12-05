@@ -1,0 +1,49 @@
+
+HP
+
+NERO = 6
+
+
+
+---
+
+
+
+
+TURNO INIZIATIVA
+
+
+DOROTHEA = 21
+MORGANA = 15
+ASTREE = 17
+TITIA =13
+LOREN = 21
+JOHANNA = 8
+ALESSANDRO = 18
+
+
+
+
+VIOLA = 6
+NERO = 20
+ROSSO = 13
+
+
+ORDINE:
+
+LOREN 
+DOROTEA  
+NERO 
+ALESSANDRO  
+ASTREE  
+MORGANA 
+TITIA 
+JOHANNA -
+
+Alessandro = 4
+Loren = 2
+Dorothea = 3
+Johanna = 3
+Morana = 5
+Titia = 1
+++

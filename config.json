@@ -21,6 +21,7 @@
     ]
   },
   "showSidebar": true,
+  "contentInclude": ["/PRIVATO"],
   "theme": {
     "defaultMode": "system",
     "showModeSwitch": true

@@ -1,5 +1,5 @@
 
-Dopo aver terrorizzato la comitiva, **Badalisk** si diresse verso l'ennesima stanza celata all'interno di quel tugurio oscuro, rivelando quella che sembrava essere una colossale fucina di metallo massiccio, secernente un fumo cristallino che inglobava tutta l'area circostante: una **[[S.O.U.L|Soul Forge]]**.
+Dopo aver terrorizzato la comitiva, **[[KROKOS/PERSONAGGI/NPC/CDC/Badalisk|Badalisk]]** si diresse verso l'ennesima stanza celata all'interno di quel tugurio oscuro, rivelando quella che sembrava essere una colossale fucina di metallo massiccio, secernente un fumo cristallino che inglobava tutta l'area circostante: una **[[S.O.U.L|Soul Forge]]**.
 
 Alessandro e Dorothea furono chiamati uno dopo l'altra a sincronizzare la propria S.O.U.L. con il macchinario, generando una coppia di rivoltelle con dei guanti metallici e una grossa falce nero pece. Il primo prese le pistole, la seconda l'arma bianca. Ormai però, il tono del "Dio" era più che cambiato: non c'erano più tentativi di ammaliare il gruppo, solo una lingua fredda e sporadica, che li incalzò a rientrare nella grande radura per un "allenamento".
 

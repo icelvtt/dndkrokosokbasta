@@ -6,8 +6,9 @@ Al momento della creazione del personaggio, questi sono i parametri comuni a tut
 - **Salute**: 1d10 + media della competenza in Vigore e Robustezza, arrotondata per eccesso 
 - **Abilità**: sistema point buy (occorre distribuire 25 punti tra le 5 statistiche esistenti, partendo da 8 punti ciascuna) e si può aggiungere +2 ad una statistica e +1 ad un’altra; 
 - **Tiri salvezza**: Uno tra Intelligenza, Saggezza, Carisma e uno tra Forza o Destrezza;  
-- **Competenze**: 3 a scelta tra Investigazione, Memoria, Appercezione, Percezione, Convinzione e Prestazione e due tra: Robustezza, Vigore, Manualità e Furtività;  
+- **Sottoabilità**: 3 competenze a scelta tra Investigazione, Memoria, Appercezione, Percezione, Convinzione e Prestazione e due tra: Robustezza, Vigore, Manualità e Furtività;  
 - **Passaggi Elementali**: 8 punti da distribuire (minimo 1 per ogni categoria, massimo 4); ad ogni livello si ottengono 2 punti, per un totale di 20 punti da distribuire. Più è alto il livello, più sono consentite evocazioni elaborate.
+- **Bonus Competenza**: Il bonus che si aggiunge nelle proprie Competenze; è pari al proprio livello.
 
 ## **<font color="#6425d0">STORIA</font>**
 

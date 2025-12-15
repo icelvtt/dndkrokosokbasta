@@ -1,4 +1,4 @@
-**[[PRIVATO/VAULT/NPC/CDC/Xavier]]**: Hydra - La Ferocia Eterna
+**[[PRIVATO/VAULT/NPC/CDC/Xavier]]**: Hydra - L'Eterna Ferocia
 **[[Elena]]**: Leviathan - La Morsa del Dominio
 **[[Kaios]]**: Fenrir - Il Divoratore del Sole
 **[[Liz]]**: Naga - L'Eclissi Assoluta

@@ -35,7 +35,7 @@
 
 **Abilità:**
 
-- Può alterare la densità di qualsiasi oggetto materico, aumentandone o riducendone il peso, fino ad un punto limite dove, con dovuta energia investita, è capace di creare un buco nero di moderate dimensioni;
+- Può alterare la densità di qualsiasi oggetto materico, aumentandone o riducendone il peso, fino ad un punto limite dove, con dovuta energia investita, è capace di creare un buco nero di moderate dimensioni, che è capace egli stesso di deattivare;
 - Può distendere lo spazio-tempo modificando campi gravitazionali, alterando la distanza tra sé e il mondo esterno;
 - Può distendere lo spazio-tempo modificando campi gravitazionali, rallentando o accelerando il tempo attorno a sé;
 - Può modificare ogni pathway biochimico omeostatico del suo corpo per renderlo adattabile a qualsiasi tipo di ambiente avverso esterno;
@@ -44,3 +44,5 @@
 - Possiede tutta la conoscenza dello scibile umano, dall'invenzione della scrittura in poi;
 - Possiede le competenze necessarie per poter svolgere qualsiasi tipo di attività di tipo pratico richiedente esperienza ed esercizio, semplicemente venendone a conoscenza;
 - è capace di emulare ogni singola Competenza Elementale altrui, ma non quelle legate alla loro Quintessenza.
+- Ha modificato gli enzimi basati sul ferro o altri metalli all'interno del suo corpo con enzimi basati sull'iridio per avere una precisione e specializzazione più raffinata;
+- 

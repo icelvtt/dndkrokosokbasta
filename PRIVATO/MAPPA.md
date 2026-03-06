@@ -1,7 +1,7 @@
 
 ```leaflet
 id: leaflet-map
-image: [[IONA.png]]
+image: [[IONA.jpg]]
 height: 500px
 lat: 50
 long: 50

@@ -3,7 +3,7 @@
 
 **Età:** 20ish
 
-**Elemento:** Physis
+**Elemento:** Pyros
 
 **Stile:** Stoikon
 
@@ -33,5 +33,8 @@
 
 **Abilità:**
 - Può fabbricare sieri utilizzabili come soporiferi, veleni, analgesici o psichedelici,
-- Può spostarsi attraverso la materia organica (principalmente legno),
-- Può separare parti del suo corpo e trasdurre la loro presenza attraverso materia organica (prevalentemente legno).
+- Può manipolare tutti gli elementi in maniera basilare, sfruttando le code
+- Può utilizzare diversi utensili basandosi sulle molteplici funzioni e conformazioni delle code
+- Può diventare invisibile cambiando il modo in cui le onde elettromagnetiche della luce rimbalzano su di sè
+- Può diventare per pochi periodi di tempo un fascio di elettricità pure
+- Usa Hexanitrogen come propellente ed esplosivo

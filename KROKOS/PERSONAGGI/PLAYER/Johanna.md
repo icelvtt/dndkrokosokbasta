@@ -1,4 +1,4 @@
-- **Nome**: Johanna Karolschitz
+<- **Nome**: Johanna Karolschitz
 - **Luogo e data di nascita**: Danzica, 1949
 - **Luogo ed età del decesso**: Katowitce, 21 anni
 - **Causa del decesso**: Collasso sitemico causato da arma da fuoco

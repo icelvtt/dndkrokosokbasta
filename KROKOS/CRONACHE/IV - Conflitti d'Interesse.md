@@ -32,7 +32,7 @@ Questi sembrava non avere idea di cosa stesse parlando e si limitò a compliment
 
 Fu in quel momento che un varco nel pavimento al centro della stanza si aprì, rivelando una sorta di piattaforma in elevazione, sulla quale posava i piedi una figura piuttosto inquietante: moderatamente alta, fisico abbastanza definito, un cappotto nero di tessuto tecnico con sotto un rivestimento dello stesso materiale che giungeva fino a metà altezza del collo, di un colore rosso-violastro, che verso gli arti inferiori diventava sempre più tendente al nero. Gli occhiali neri e gli occhi rosati erano inconfondibili: era **[[KROKOS/PERSONAGGI/NPC/CDC/Xavier|Xavier]]** in persona, ma c'era un dettaglio che si faticava a non notare: una possente e lunga protuberanza meccanica appuntita gli si estendeva dal coccige, dal colore cinireo con setti circolari rossi pulsanti che si alternavano sulla sua superficie. 
 
-Questa si muoveva in maniera sinuosa, quasi ipnotica, nel mentre che si avvicinava a Titia, che, intimorita, stava cercando di creare una manifestazione elementale, ma quest'ultima fu completamente risucchiata da un foro che aveva sostituito la punta della coda.
+Questa si muoveva in maniera sinuosa, quasi ipnotica, nel mentre che si avvicinava a Titia, che, intimorita, stava cercando di creare una manifestazione elementale, ma quest'ultima fu completamente risucchiata +da un foro che aveva sostituito la punta della coda.
 
 Gli altri erano più che spaventati, Dorothea in particolare, ma dopo che l'uomo le diede la mano, sembrava essersi completamente tranquillizzata.
 

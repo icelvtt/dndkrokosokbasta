@@ -20,6 +20,7 @@
       }
     ]
   },
+  "showSidebar": true,
   "contentExclude": ["/PRIVATO"],
   "theme": {
     "defaultMode": "system",

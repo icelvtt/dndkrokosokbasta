@@ -64,6 +64,7 @@ Scelta tra:
 
 #### CARATTERISTICHE GENERALI
 
+- Vengono garantiti 2 Cariche Elementali extra per livello.
 - Vengono garantiti 2 Punti Elementali extra per livello.
 - Aggiungi il numero del tuo livello, dimezzato, come bonus a tiri salvezza per attacchi elementali e ai tiri per colpire con attacchi elementali.
 - Hai competenza in Armature Leggere.

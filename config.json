@@ -21,6 +21,9 @@
     ]
   },
   "showSidebar": true,
+    "sidebar": {
+    "paths": ["/KROKOS/CONCETTI", "/KROKOS/PERSONAGGI"]
+  }
   "contentExclude": ["/PRIVATO"],
   "theme": {
     "defaultMode": "system",

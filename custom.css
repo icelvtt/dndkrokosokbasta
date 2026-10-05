@@ -2,10 +2,10 @@
   /* Light theme */
   --color-l-background: #ffffff;
   --color-l-foreground: #525252;
-  --color-l-accent: #fb923c;
+  --color-l-accent: #5D3FD3;
 
   /* Dark theme */
   --color-d-background: #0c0a09;
-  --color-d-foreground: #d6d3d1;
+  --color-d-foreground: #5D3FD3;
   --color-d-accent: #5D3FD3;
 }

@@ -12,3 +12,10 @@
   --c-deep-green: #110047;
   --tw-prose-body: #C8B8FF;
 }
+
+ .graph-view.color-class {
+	/* Supports all CSS color directives, like #HEX, rgb and rgba */
+	color:   #5D3FD3;
+	/* Opacity (similar to rgba) will make the color transparent */
+	opacity: 0.5;
+}
